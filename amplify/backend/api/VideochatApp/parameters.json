@@ -1,0 +1,6 @@
+{
+  "AppSyncApiName": "VideochatApp",
+  "DynamoDBBillingMode": "PAY_PER_REQUEST",
+  "DynamoDBEnableServerSideEncryption": false,
+  "AuthModeLastUpdated": "2024-01-26T02:10:36.976Z"
+}
